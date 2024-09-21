@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+The aim of the assignment is to apply EDA (Exploratory Data Analysis) concepts to help a finance company make informed decisions on lending loans. The objectives are:
+1. Determine whether to approve a loan. If approved, decide on the appropriate loan amount and interest rate, ensuring the company minimizes credit loss while retaining the customer.
+2. Identify cases where loan repayment is highly unlikely and decide not to approve the loan in such instances.
 
 
 ## Table of Contents
